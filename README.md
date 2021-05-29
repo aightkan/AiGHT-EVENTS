@@ -1,1 +1,1 @@
-# aight-events
+# Events-by-AiGHT
